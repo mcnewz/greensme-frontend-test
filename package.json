@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "=18.17.1"
+    "node": "git config --local -e=18.17.1"
   },
   "scripts": {
     "dev": "next dev",
